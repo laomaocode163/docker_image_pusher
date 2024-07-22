@@ -11,6 +11,6 @@ nacos/nacos-server:v2.1.2
 nacos/nacos-server:v1.4.4
 jgraph/drawio:24.7.1
 bitnami/minio:2024
-sonatype/nexus3:3.70.
+sonatype/nexus3:3.70.1
 fogforest/yesplaymusic:0.4.8-2
 qingfeng2336/it-tools:latest
