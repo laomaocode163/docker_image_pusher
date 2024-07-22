@@ -1,4 +1,5 @@
 emqx:5.7.1
+emqx/mqttx-web:v1.10.1
 rabbitmq:3.8.7-management
 rabbitmq:3.9-management
 rabbitmq:3.13-management
@@ -8,3 +9,8 @@ redis:6.2.14
 nacos/nacos-server:v2.4.0
 nacos/nacos-server:v2.1.2
 nacos/nacos-server:v1.4.4
+jgraph/drawio:24.7.1
+bitnami/minio:2024
+sonatype/nexus3:3.70.
+fogforest/yesplaymusic:0.4.8-2
+qingfeng2336/it-tools:latest
