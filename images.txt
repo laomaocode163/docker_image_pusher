@@ -1,1 +1,10 @@
 emqx:5.7.1
+rabbitmq:3.8.7-management
+rabbitmq:3.9-management
+rabbitmq:3.13-management
+redis:7.2.5
+redis:7
+redis:6.2.14
+nacos/nacos-server:v2.4.0
+nacos/nacos-server:v2.1.2
+nacos/nacos-server:v1.4.4
