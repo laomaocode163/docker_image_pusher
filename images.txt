@@ -14,3 +14,7 @@ bitnami/minio:2024
 sonatype/nexus3:3.70.1
 fogforest/yesplaymusic:0.4.8-2
 qingfeng2336/it-tools:latest
+openjdk:8u151-jre-stretch
+openjdk:8u151-jdk
+openjdk:8u151-jre
+openjdk:8u151
