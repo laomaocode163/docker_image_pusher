@@ -18,3 +18,5 @@ openjdk:8u151-jre-stretch
 openjdk:8u151-jdk
 openjdk:8u151-jre
 openjdk:8u151
+postgres:12.19
+postgres:13.15
