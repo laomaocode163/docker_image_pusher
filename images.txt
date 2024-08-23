@@ -21,4 +21,4 @@ openjdk:8u151
 postgres:12.19
 postgres:13.15
 ohyoungmachine/jetbrains-cracked-rust:latest
-gitlab/gitlab-ce
+gitlab/gitlab-ce:17.1.6-ce.0
